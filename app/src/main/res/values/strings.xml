@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">News App</string>
+    <string name="news_title">PIONIR Universitas Gadjah Mada Sukses Besar</string>
+    <string name="news_content">PIONIR Gadjah Mada merupakan kegiatan pembelajaran, pengenalan, penggalian potensi, dan orientasi yang dirancang untuk mendidik calon pemimpin muda yang memiliki visi serta berlandaskan nilai-nilai ke-UGM-an. Melalui tema Melalui tema &quot;Mengukir Jati Diri Gadjah Mada Muda, Berdikari Membangun Bangsa&quot;, Gadjah Mada Muda diharapkan mampu menginternalisasikan nilai-nilai yang menjadi jati diri UGM serta memberikan kontribusi yang berdampak luas dan berkelanjutan bagi bangsa.</string>
 </resources>
